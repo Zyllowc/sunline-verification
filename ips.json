@@ -1,0 +1,11 @@
+{
+  "allowed_ips": [
+    "127.0.0.1",
+    "45.13.120.XX",
+    "192.168.0.XX"
+  ],
+  "allowed_tokens": [
+    "TON_TOKEN_1",
+    "TON_TOKEN_2"
+  ]
+}
